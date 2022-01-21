@@ -8,3 +8,13 @@
 .categories img{
     width: 100px;
 }
+#subscribe{
+    height: 300px;
+    background-color: #fceae8;
+}
+.footer-section p {
+    background-color: #ff5e87;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
